@@ -70,6 +70,8 @@ iio.imwrite('team.gif', images, duration=500, loop=0)
 
 MIT License
 
----
+// output-------
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/424b50d9-a42c-4b88-bfb2-b82659a81d67" />
+//
 
 **Author:** asha2409
